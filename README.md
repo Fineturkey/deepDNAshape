@@ -6,6 +6,11 @@ It also includes all the components of Deep DNAshape. You may incoorporate Deep 
 
 Please also check out our webserver for predicting of DNA shape features in real time, <https://deepdnashape.usc.edu/>.
 
+
+## MY NOTES
+
+https://x3dna.org/
+
 ## Installation
 
 Prerequsite: `tensorflow >= 2.6.0` `numpy<1.24`
