@@ -22,9 +22,9 @@ Installation time should be minimal depending on the time to install the prerequ
 
 ## To run the virtual venv
 
-.\.venv311\Scripts\activate
+'.venv311\Scripts\activate'
 This will activate the virtual venv for python 3.11.9 and then run pip install .
-pip install "tensorflow==2.16.*" "keras<3" "numpy<1.24"
+'pip install "tensorflow==2.16.*" "keras<3" "numpy<1.24"'
 
 This is the command for installing 
 
