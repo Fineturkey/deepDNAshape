@@ -20,6 +20,11 @@ pip install .
 ```
 Installation time should be minimal depending on the time to install the prerequsites. 
 
+## To run the virtual venv
+
+.\.venv311\Scripts\activate
+This will activate the virtual venv for python 3.11.9 and then run pip install . 
+
 ## Quickstart
 
 Pre-trained models are provided with the package. You don't need to train anything to predict DNA shape features! If you want to use the model to train other data, please go to "scripts" folder.
